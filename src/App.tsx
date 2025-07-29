@@ -3,7 +3,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // Mock Firebase config - replace with your actual config
 const firebaseConfig = {
-  apiKey: "AIzaSyD1-EXAMPLE_KEY-DontUseInProd", // Replace with your real API key
+  apiKey: "AIzaSyBUbiKWbEIKpcv0lMpRxtUZScx_sbRPXyc", // Replace with your real API key
   authDomain: "careerbuddy-ai.firebaseapp.com",
   projectId: "careerbuddy-ai",
   storageBucket: "careerbuddy-ai.appspot.com",
